@@ -1,0 +1,72 @@
+header nav {
+   margin: 20px 0px;
+   text-align: center;
+   padding: 20px 0px;
+   background-color: pink;
+
+}
+nav a{
+   text-decoration: none;
+   border-radius: 10px;
+   color: hotpink;
+   background-color: mistyrose;
+   padding: 5px;
+}
+
+.icon{
+   width: 600px;
+   height: 70px;
+}
+
+h1 {
+   color:hotpink;
+   text-align: center;
+}
+
+header p{
+   text-align: center;
+}
+
+h2 {
+   font-size: 25px;
+   background-color: pink;
+   color: white;
+   text-align: center;
+}
+
+main p{
+   font-size: 17px;
+   text-align: center;
+}
+
+main img{
+   height: 300px;
+   width: 150px;
+}
+
+.tysh{
+   height: 320px;
+   width: 190px;
+}
+
+caption {
+   font-size: 25px;
+   background-color: pink;
+   color: white;
+   text-align: center;
+}
+main table{
+   border: 2px solid hotpink;
+   border-collapse: collapse;
+   font-size: 16px;
+}
+
+table tr{
+   border: 2px solid hotpink;
+}
+
+fotter p{
+   font-size: 16px;
+   background-color: pink;
+   color: white;
+}
